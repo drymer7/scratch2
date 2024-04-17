@@ -1,0 +1,32 @@
+/*this is a coment */
+
+/* 
+Thbis is a p element selector 
+this will affect any p element 
+that has this .cess file linked to it
+*/
+/* Paragraph styling */
+
+
+p {
+    color: chocolate;
+    font-family: 'Sans-serif';
+}
+
+/* Body styling */
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* Class selector for special elements */
+.special {
+    font-weight: bold;
+    font-style: italic;
+    color: blue;
+}
+
+/* Anchor hover state */
+a:hover {
+    color: yellow;
+    font-size: 30px;
+}
